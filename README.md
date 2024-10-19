@@ -1,1 +1,1 @@
-#learning react js by doing small project.
+#learning react js by doing small projects.
